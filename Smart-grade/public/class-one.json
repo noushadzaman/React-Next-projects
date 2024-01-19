@@ -1,0 +1,72 @@
+[
+    {
+        "ID": 1,
+        "Name": "John",
+        "Image": "https://i.ibb.co/kQNDnzB/wepik-export-20231125050100w-Ut-M.jpg",
+        "Percentage": 95,
+        "Grade": "A+"
+    },
+    {
+        "ID": 2,
+        "Name": "Alice",
+        "Image": "https://i.ibb.co/sgvK8r1/wepik-export-20231125045918m-Hh-Q.jpg",
+        "Percentage": 75,
+        "Grade": "A"
+    },
+    {
+        "ID": 3,
+        "Name": "Bob",
+        "Image": "https://i.ibb.co/bgfVTjt/wepik-export-2023112504531109lo.jpg",
+        "Percentage": 68,
+        "Grade": "B+"
+    },
+    {
+        "ID": 4,
+        "Name": "Emily",
+        "Image": "https://i.ibb.co/JcH2s0p/wepik-export-20231125050041p-Ia-G.jpg",
+        "Percentage": 69,
+        "Grade": "A-"
+    },
+    {
+        "ID": 5,
+        "Name": "David",
+        "Image": "https://i.ibb.co/hDBSVXp/wepik-export-20231125044628-AYBP.jpg",
+        "Percentage": 62,
+        "Grade": "B+"
+    },
+    {
+        "ID": 6,
+        "Name": "Eva",
+        "Image": "https://i.ibb.co/T8P4sNX/wepik-export-20231125050226zabo.jpg",
+        "Percentage": 91,
+        "Grade": "A+"
+    },
+    {
+        "ID": 7,
+        "Name": "Michael",
+        "Image": "https://i.ibb.co/WNr7yh5/wepik-export-20231125045758-Z9ei.jpg",
+        "Percentage": 93,
+        "Grade": "A+"
+    },
+    {
+        "ID": 8,
+        "Name": "Sophia",
+        "Image": "https://i.ibb.co/fQb6n3F/wepik-export-20231125045009-WUFx.jpg",
+        "Percentage": 76,
+        "Grade": "A"
+    },
+    {
+        "ID": 9,
+        "Name": "Daniel",
+        "Image": "https://i.ibb.co/zSx3BDT/wepik-export-20231125044740-K3-X6.jpg",
+        "Percentage": 84,
+        "Grade": "A+"
+    },
+    {
+        "ID": 10,
+        "Name": "Olivia",
+        "Image": "https://i.ibb.co/pz6xVg2/wepik-export-20231125045711-L2-TD.jpg",
+        "Percentage": 90,
+        "Grade": "A+"
+    }
+]
