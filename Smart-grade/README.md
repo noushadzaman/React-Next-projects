@@ -1,1 +1,0 @@
-# live-link: https://react-accelerator-02.vercel.app

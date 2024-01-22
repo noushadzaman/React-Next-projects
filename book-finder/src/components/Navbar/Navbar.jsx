@@ -4,13 +4,13 @@ const Navbar = () => {
         <nav className="py-6 ">
             <div className="container mx-auto flex items-center justify-between gap-x-6 max-w-7xl">
                 {/* <!-- Logo --> */}
-                <a href="/">
+                {/* <a href="/">
                     <img
                         className="max-w-[100px] md:max-w-[165px]"
                         src="lws-logo-en.svg"
                         alt="Lws"
                     />
-                </a>
+                </a> */}
                 {/* <!-- Logo Ends -->
                 <!-- Notification --> */}
                 <svg
