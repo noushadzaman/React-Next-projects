@@ -53,7 +53,6 @@ export default function AddTaskModal({ onSave, taskToUpdate, onCloseClick }) {
                             type="text"
                             name="description"
                             id="description"
-                            value={task.description}
                             onChange={handleChange}
                             required
                         ></textarea>
